@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="GSA.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GSA.UITest/Tests.cs">
+    <Files>
+      <File FileName="GSA.UITest/Tests.cs" Line="38" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="GSA" expanded="True">
+            <Node name="GSA.UITest" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/Views/MasterScreenController.cs" line="34" column="109" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

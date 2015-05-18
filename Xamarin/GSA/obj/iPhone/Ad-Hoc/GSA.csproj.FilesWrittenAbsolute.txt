@@ -1,0 +1,10 @@
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhone/Ad-Hoc/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhone/Ad-Hoc/ibtool/LaunchScreen.nib
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhone/Ad-Hoc/ibtool/MasterScreenController.nib
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhone/Ad-Hoc/ibtool/DetailViewController.nib
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhone/Ad-Hoc/actool/partial-info.plist
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhone/Ad-Hoc/actool/asset-manifest.plist
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhone/Ad-Hoc/
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/bin/iPhone/Ad-Hoc/GSA.exe
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhone/Ad-Hoc/GSA.exe
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/bin/iPhone/Ad-Hoc/Calabash.dll

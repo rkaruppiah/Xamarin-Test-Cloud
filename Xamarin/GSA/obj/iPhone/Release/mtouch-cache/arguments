@@ -1,0 +1,35 @@
+# Version: 8.10.0.267 (6481535)
+# [first argument, ignore] # /Users/adamjayakumar/Documents/Projects/Xamarin/GSA/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.10.0.267/bin/mtouch \
+	--cache \
+	/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhone/Release/mtouch-cache \
+	--dev \
+	/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/bin/iPhone/Release/GSA.app \
+	--executable \
+	GSA \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.1 \
+	--targetver \
+	8.1 \
+	--abi=armv7,arm64 \
+	--symbollist \
+	/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhone/Release/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/packages/Xamarin.TestCloud.Agent.0.14.1/lib/Xamarin.iOS10/Calabash.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/packages/Xamarin.TestCloud.Agent.0.14.1/lib/Xamarin.iOS10/Calabash.dll \
+	/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/bin/iPhone/Release//GSA.exe \

@@ -1,0 +1,12 @@
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhoneSimulator/Debug/
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/bin/iPhoneSimulator/Debug/GSA.exe.mdb
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/bin/iPhoneSimulator/Debug/GSA.exe
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhoneSimulator/Debug/GSA.exe
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhoneSimulator/Debug/GSA.exe.mdb
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhoneSimulator/Debug/ibtool/MasterScreenController.nib
+/Users/adamjayakumar/Documents/Projects/Xamarin/GSA/obj/iPhoneSimulator/Debug/ibtool/DetailViewController.nib
